@@ -114,13 +114,66 @@ There will be two in-class quizzes and a regular three-hour final exam.
 
 Grades for the course will be based on the following weighting:
 
-| activities | percentages |
-| --- | --- |
-| Problem Sets | 0-30% |
-| Two In-class Quizzes | 20-35% (10-17% 10-18%) |
-| Class Participation | 25% |
-| Final Exam | 20-35% |
-| Online Tutor Problems and Email | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+0-30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two In-class Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+20-35% (10-17% 10-18%)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+20-35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Online Tutor Problems and Email
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 

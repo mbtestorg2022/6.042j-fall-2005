@@ -6,59 +6,823 @@ uid: 560d0fc0-0a7a-0ab0-26b1-b8fe9fc17391
 
 Powerpoint and LaTeX source files and LaTeX macros are available to instructors by request: email Prof. Albert Meyer at [meyer at csail dot mit dot edu](mailto:meyer@csail.mit.edu).
 
-| SES # | TOPICS | SLIDES | IN-CLASS PROBLEMS | IN-CLASS PROBLEM SOLUTIONS |
-| --- | --- | --- | --- | --- |
-| {{< td-colspan 5 >}}**Week 1**{{< /td-colspan >}} |||||
-| 1 | Good and Bad Proofs  {{< br >}}Course Information | ([PDF]({{< baseurl >}}/resources/slides1w)) | ([PDF]({{< baseurl >}}/resources/cp1w)) | ([PDF]({{< baseurl >}}/resources/cp1wsol)) |
-| 2 | Propositions and Proofs | ([PDF]({{< baseurl >}}/resources/slides1f)) | ([PDF]({{< baseurl >}}/resources/cp1f)) | ([PDF]({{< baseurl >}}/resources/cp1fsol)) |
-| {{< td-colspan 5 >}}**Week 2**{{< /td-colspan >}} |||||
-| 3 | Proofs by Contradiction and Cases | ([PDF]({{< baseurl >}}/resources/slides2m)) | ([PDF]({{< baseurl >}}/resources/cp2m)) | ([PDF]({{< baseurl >}}/resources/cp2msol)) |
-| 4 | Predicate Logic | ([PDF]({{< baseurl >}}/resources/slides2w)) | ([PDF]({{< baseurl >}}/resources/cp2w)) | ([PDF]({{< baseurl >}}/resources/cp2wsol)) |
-| 5 | Sets and Functions | ([PDF]({{< baseurl >}}/resources/slides2f)) | ([PDF]({{< baseurl >}}/resources/cp2f)) | ([PDF]({{< baseurl >}}/resources/cp2fsol)) |
-| {{< td-colspan 5 >}}**Week 3**{{< /td-colspan >}} |||||
-| 6 | Induction I | ([PDF]({{< baseurl >}}/resources/slides3w)) | ([PDF]({{< baseurl >}}/resources/cp3w)) | ([PDF]({{< baseurl >}}/resources/cp3wsol)) |
-| 7 | Induction II | ([PDF]({{< baseurl >}}/resources/slides3f)) | ([PDF]({{< baseurl >}}/resources/cp3f)) | ([PDF]({{< baseurl >}}/resources/cp3fsol)) |
-| {{< td-colspan 5 >}}**Week 4**{{< /td-colspan >}} |||||
-| 8 | Relations I | ([PDF]({{< baseurl >}}/resources/slides4m)) | ([PDF]({{< baseurl >}}/resources/cp4m)) | ([PDF]({{< baseurl >}}/resources/cp4msol)) |
-| 9 | Relations II | ([PDF]({{< baseurl >}}/resources/slides4w)) | ([PDF]({{< baseurl >}}/resources/cp4w)) | ([PDF]({{< baseurl >}}/resources/cp4wsol)) |
-| 10 | Graph Theory I | ([PDF]({{< baseurl >}}/resources/slides4f)) | ([PDF]({{< baseurl >}}/resources/cp4f)) | ([PDF]({{< baseurl >}}/resources/cp4fsol)) |
-| {{< td-colspan 5 >}}**Week 5**{{< /td-colspan >}} |||||
-| 11 | Graph Theory II | ([PDF]({{< baseurl >}}/resources/slides5m)) | ([PDF]({{< baseurl >}}/resources/cp5m)) | ([PDF]({{< baseurl >}}/resources/cp5msol)) |
-| 12 | Graph Theory III | ([PDF]({{< baseurl >}}/resources/slides5w)) | ([PDF]({{< baseurl >}}/resources/cp5w)) | ([PDF]({{< baseurl >}}/resources/cp5wsol)) |
-| 13 | Graph Theory IV | ([PDF 1]({{< baseurl >}}/resources/slides5f))  {{< br >}}([PDF 2]({{< baseurl >}}/resources/planar_animation)) | ([PDF]({{< baseurl >}}/resources/cp5f)) | ([PDF]({{< baseurl >}}/resources/cp5fsol)) |
-| {{< td-colspan 5 >}}**Week 6**{{< /td-colspan >}} |||||
-| 14 | Number Theory I | ([PDF]({{< baseurl >}}/resources/slides6w)) | ([PDF]({{< baseurl >}}/resources/cp6w)) | ([PDF]({{< baseurl >}}/resources/cp6wsol)) |
-| 15 | Number Theory II | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp6f)) | ([PDF]({{< baseurl >}}/resources/cp6fsol)) |
-| {{< td-colspan 5 >}}**Week 7**{{< /td-colspan >}} |||||
-| 16 | Quiz 1 and Solution | &nbsp; |
-| 17 | Number Theory III | ([PDF]({{< baseurl >}}/resources/slides7w)) | ([PDF]({{< baseurl >}}/resources/cp7w)) | ([PDF]({{< baseurl >}}/resources/cp7wsol)) |
-| 18 | State Machines I: Invariants  {{< br >}}Fallacies with Infinity | ([PDF]({{< baseurl >}}/resources/slides7f)) | ([PDF]({{< baseurl >}}/resources/cp7f)) | ([PDF]({{< baseurl >}}/resources/cp7fsol)) |
-| {{< td-colspan 5 >}}**Week 8**{{< /td-colspan >}} |||||
-| 19 | State Machines II: Derived Variables, Stable Marriage Problem | ([PDF - 1.9 MB]({{< baseurl >}}/resources/slides8m)) | ([PDF]({{< baseurl >}}/resources/cp8m)) | ([PDF]({{< baseurl >}}/resources/cp8msol)) |
-| 20 | Sums and Series I | ([PDF]({{< baseurl >}}/resources/slides8w)) | ([PDF]({{< baseurl >}}/resources/cp8w)) | ([PDF]({{< baseurl >}}/resources/cp8wsol)) |
-| 21 | Sums and Series II  {{< br >}}Mid-course Survey | ([PDF]({{< baseurl >}}/resources/slides8f)) | ([PDF]({{< baseurl >}}/resources/cp8f)) | ([PDF]({{< baseurl >}}/resources/cp8fsol)) |
-| {{< td-colspan 5 >}}**Week 9**{{< /td-colspan >}} |||||
-| 22 | Asymptotics | ([PDF]({{< baseurl >}}/resources/slides9m)) | ([PDF]({{< baseurl >}}/resources/cp9m)) | ([PDF]({{< baseurl >}}/resources/cp9msol)) |
-| 23 | Counting I | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp9w)) | ([PDF]({{< baseurl >}}/resources/cp9wsol)) |
-| 24 | Counting II | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp9f)) | ([PDF]({{< baseurl >}}/resources/cp9fsol)) |
-| {{< td-colspan 5 >}}**Week 10**{{< /td-colspan >}} |||||
-| 25 | Counting III (with Magic Trick Solution) | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp10m)) | ([PDF]({{< baseurl >}}/resources/cp10msol)) |
-| 26 | Counting IV | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp10w)) | ([PDF]({{< baseurl >}}/resources/cp10wsol)) |
-| {{< td-colspan 5 >}}**Week 11**{{< /td-colspan >}} |||||
-| 27 | Quiz 2 and Solution | &nbsp; |
-| 28 | Generating Functions I | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp11w)) | ([PDF]({{< baseurl >}}/resources/cp11wsol)) |
-| 29 | Generating Functions II | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp11f)) | ([PDF]({{< baseurl >}}/resources/cp11fsol)) |
-| {{< td-colspan 5 >}}**Week 12**{{< /td-colspan >}} |||||
-| 30 | Introduction to Probability | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp12m)) | ([PDF]({{< baseurl >}}/resources/cp12msol)) |
-| 31 | Conditional Probability and Independence | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp12w)) | ([PDF]({{< baseurl >}}/resources/cp12wsol)) |
-| {{< td-colspan 5 >}}**Week 13**{{< /td-colspan >}} |||||
-| 32 | Random Variables | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp13m)) | ([PDF]({{< baseurl >}}/resources/cp13msol)) |
-| 33 | Distribution and Density, Binomial Distribution | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp13w)) | ([PDF]({{< baseurl >}}/resources/cp13wsol)) |
-| 34 | Expectation | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp13f)) | ([PDF]({{< baseurl >}}/resources/cp13fsol)) |
-| {{< td-colspan 5 >}}**Week 14**{{< /td-colspan >}} |||||
-| 35 | Linearity of Expectation | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp14m)) | ([PDF]({{< baseurl >}}/resources/cp14msol)) |
-| 36 | Variance | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp14w)) | ([PDF]({{< baseurl >}}/resources/cp14wsol)) |
-| 37 | Sampling and Confidence | &nbsp; | ([PDF]({{< baseurl >}}/resources/cp14f)) | ([PDF]({{< baseurl >}}/resources/cp14fsol)) |
-| {{< td-colspan 5 >}}**Week 15**{{< /td-colspan >}} |||||
-| 38 | Law of Large Numbers | ([PDF]({{< baseurl >}}/resources/slides15m)) | ([PDF]({{< baseurl >}}/resources/cp15m)) | ([PDF]({{< baseurl >}}/resources/cp15msol)) |
-| 39 | Random Walks | ([PDF]({{< baseurl >}}/resources/slides15w)) | ([PDF]({{< baseurl >}}/resources/cp15w)) | ([PDF]({{< baseurl >}}/resources/cp15wsol))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SLIDES
+{{< thclose >}}
+{{< thopen >}}
+IN-CLASS PROBLEMS
+{{< thclose >}}
+{{< thopen >}}
+IN-CLASS PROBLEM SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Good and Bad Proofs  
+Course Information
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides1w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp1w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp1wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Propositions and Proofs
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides1f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp1f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp1fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Proofs by Contradiction and Cases
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides2m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp2m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp2msol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Predicate Logic
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides2w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp2w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp2wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Sets and Functions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides2f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp2f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp2fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Induction I
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides3w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp3w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp3wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Induction II
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides3f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp3f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp3fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Relations I
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides4m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp4m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp4msol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Relations II
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides4w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp4w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp4wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Graph Theory I
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides4f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp4f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp4fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Graph Theory II
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides5m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp5m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp5msol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Graph Theory III
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides5w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp5w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp5wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Graph Theory IV
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF 1]({{< baseurl >}}/resources/slides5f))  
+([PDF 2]({{< baseurl >}}/resources/planar_animation))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp5f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp5fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Number Theory I
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides6w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp6w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp6wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Number Theory II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp6f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp6fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 7**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1 and Solution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Number Theory III
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides7w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp7w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp7wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+State Machines I: Invariants  
+Fallacies with Infinity
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides7f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp7f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp7fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 8**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+State Machines II: Derived Variables, Stable Marriage Problem
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.9 MB]({{< baseurl >}}/resources/slides8m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp8m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp8msol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Sums and Series I
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides8w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp8w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp8wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Sums and Series II  
+Mid-course Survey
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides8f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp8f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp8fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 9**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Asymptotics
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides9m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp9m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp9msol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Counting I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp9w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp9wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Counting II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp9f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp9fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 10**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Counting III (with Magic Trick Solution)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp10m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp10msol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Counting IV
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp10w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp10wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 and Solution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Generating Functions I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp11w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp11wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Generating Functions II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp11f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp11fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Probability
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp12m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp12msol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Conditional Probability and Independence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp12w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp12wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 13**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Random Variables
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp13m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp13msol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Distribution and Density, Binomial Distribution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp13w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp13wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Expectation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp13f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp13fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 14**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Linearity of Expectation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp14m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp14msol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Variance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp14w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp14wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Sampling and Confidence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp14f))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp14fsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Week 15**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Law of Large Numbers
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides15m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp15m))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp15msol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Random Walks
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/slides15w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp15w))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cp15wsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
