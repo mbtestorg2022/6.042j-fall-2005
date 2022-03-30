@@ -4,6 +4,7 @@ description: This resource contains 4 set of problems based on counting III(with
   Trick Solution).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-042j-mathematics-for-computer-science-fall-2005/fa1a306667c14544e008e4f073af9a73_cp10m.pdf
 file_type: application/pdf
+parent_uid: 560d0fc0-0a7a-0ab0-26b1-b8fe9fc17391
 resourcetype: Document
 title: cp10m.pdf
 uid: fa1a3066-67c1-4544-e008-e4f073af9a73

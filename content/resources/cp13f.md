@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 3 set of problems based on expectation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-042j-mathematics-for-computer-science-fall-2005/b05829c5bd7f568c3e0de7c35418ada3_cp13f.pdf
 file_type: application/pdf
+parent_uid: 560d0fc0-0a7a-0ab0-26b1-b8fe9fc17391
 resourcetype: Document
 title: cp13f.pdf
 uid: b05829c5-bd7f-568c-3e0d-e7c35418ada3

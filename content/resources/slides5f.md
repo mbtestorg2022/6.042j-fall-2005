@@ -4,6 +4,7 @@ description: 'This resource discusses planar graphs, Euler''s formula, and Bipar
   Matching: Hall?s theorem.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-042j-mathematics-for-computer-science-fall-2005/aa542addc1c3bda6732467fb90723852_slides5f.pdf
 file_type: application/pdf
+parent_uid: 560d0fc0-0a7a-0ab0-26b1-b8fe9fc17391
 resourcetype: Document
 title: slides5f.pdf
 uid: aa542add-c1c3-bda6-7324-67fb90723852

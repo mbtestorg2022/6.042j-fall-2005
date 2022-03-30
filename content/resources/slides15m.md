@@ -6,6 +6,7 @@ description: This resource discusses the quotes by Jacob D. Bernoulli, deviation
   failure, communication through noise, and gambling.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-042j-mathematics-for-computer-science-fall-2005/27a8844eb8b49add2d30e79294856d80_slides15m.pdf
 file_type: application/pdf
+parent_uid: 560d0fc0-0a7a-0ab0-26b1-b8fe9fc17391
 resourcetype: Document
 title: slides15m.pdf
 uid: 27a8844e-b8b4-9add-2d30-e79294856d80
